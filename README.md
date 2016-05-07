@@ -1,6 +1,9 @@
 # SoundNotificationWebpackPluginn
 Very simple webpack plugin that plays a sound on compile is done
 
+# Install
+`npm i sound-notification-webpack-plugin`
+
 # Usage
 
 ```js 
