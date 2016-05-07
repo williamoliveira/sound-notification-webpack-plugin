@@ -1,0 +1,23 @@
+{
+  "name": "sound-notification-webpack-plugin",
+  "version": "1.0.0",
+  "description": "Plays a sound on webpack compile is done",
+  "main": "SoundNotificationWebpackPlugin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/williamoliveira/sound-notification-webpack-plugin.git"
+  },
+  "keywords": [
+    "webpack",
+    "plugin"
+  ],
+  "author": "William Oliveira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/williamoliveira/sound-notification-webpack-plugin/issues"
+  },
+  "homepage": "https://github.com/williamoliveira/sound-notification-webpack-plugin#readme"
+}
