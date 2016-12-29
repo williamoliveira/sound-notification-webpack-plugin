@@ -4,7 +4,7 @@
  * @type {exports|module.exports}
  */
 
-var sys = require('sys');
+var sys = require('util');
 var exect = require('child_process').exec;
 
 var player = 'paplay';
