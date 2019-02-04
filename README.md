@@ -1,4 +1,4 @@
-# SoundNotificationWebpackPluginn
+# SoundNotificationWebpackPlugin
 Very simple webpack plugin that plays a sound when build is done
 
 # Install
